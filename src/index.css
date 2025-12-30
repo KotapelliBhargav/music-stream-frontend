@@ -1,18 +1,8 @@
-.auth-container {
-  width: 300px;
-  margin: 80px auto;
-  padding: 20px;
-  border: 1px solid #ddd;
-}
-
-input {
-  width: 100%;
-  padding: 8px;
-  margin: 8px 0;
-}
-
-button {
-  width: 100%;
-  padding: 10px;
-  margin-top: 10px;
+html,
+body,
+#root {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  overflow: hidden;
 }
